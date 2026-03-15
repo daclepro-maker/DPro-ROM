@@ -4,6 +4,7 @@
 DPro-ROM is a performance-driven custom ROM project designed for users who crave a fluid experience without the unnecessary bloatware found in stock firmware. Built with speed and stability in mind.
 
 ###🚀 Key Features
+
 🚀 Ultra-Lightweight: Stripped down more than 50+ unnecessary apps and background services.
 
 🔋 Battery Pro-Optimization: Custom scripts integrated for deep sleep and improved standby time.
