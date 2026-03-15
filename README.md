@@ -1,9 +1,9 @@
-#📱 DPro-ROM | Performance & Elegance
-#"Unlock the true potential of your device."
+# 📱 DPro-ROM | Performance & Elegance
+# "Unlock the true potential of your device."
 
 DPro-ROM is a performance-driven custom ROM project designed for users who crave a fluid experience without the unnecessary bloatware found in stock firmware. Built with speed and stability in mind.
 
-###🚀 Key Features
+### 🚀 Key Features
 
 🚀 Ultra-Lightweight: Stripped down more than 50+ unnecessary apps and background services.
 
@@ -15,7 +15,7 @@ DPro-ROM is a performance-driven custom ROM project designed for users who crave
 
 🛡️ Privacy First: Removed intrusive telemetry and tracking modules.
 
-###🛠️ Technical Specifications
+### 🛠️ Technical Specifications
 Linux version: 24.06
 
 Base: Ubuntu (postmarketOS)
