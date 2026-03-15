@@ -24,8 +24,8 @@
 | **Booting** | ✅ Yes |
 | **Display / Graphics** | ✅ Working |
 | **Touchscreen** | ✅ Working |
-| **Wi-Fi** | 🛠️ Testing |
-| **Sound / Audio** | ⚠️ Known Issues |
+| **Wi-Fi** | ✅ Working |
+| **Sound / Audio** | ✅ Working |
 | **Battery Indicator** | 🔄 In Progress |
 
 ---
